@@ -3,11 +3,13 @@ A data-driven approach to understanding the short-term rental market.
 
 ## Introduction
 Prague, the heart of Central Europe, is one of the most sought-after travel destinations due to its rich history, breathtaking architecture, and vibrant culture. With the growing popularity of Airbnb, short-term rentals are reshaping the housing market, offering both opportunities and challenges for investors and hosts.
-<br>This study aims to analyze Airbnb listings in Prague to provide valuable insights into price trends, spatial distribution, accommodation types, and profitability. Additionally, we compare these findings with real estate selling prices to assess the viability of investment opportunities across Prague’s districts.
+
+This study aims to analyze Airbnb listings in Prague to provide valuable insights into price trends, spatial distribution, accommodation types, and profitability. Additionally, we compare these findings with real estate selling prices to assess the viability of investment opportunities across Prague’s districts.
 
 ### About the Dataset
 This analysis utilizes data from Inside Airbnb, capturing information from March 2025, supplemented with quarterly trends from the past year.
-<br>Despite some limitations, such as missing guest capacity and occupancy irregularities, the dataset provides essential insights into the Prague Airbnb market.
+
+Despite some limitations, such as missing guest capacity and occupancy irregularities, the dataset provides essential insights into the Prague Airbnb market.
 
 ### Project Objectives
 - Identifying market trends - understanding growth patterns and shifts in Airbnb listings
@@ -30,4 +32,5 @@ This analysis utilizes data from Inside Airbnb, capturing information from March
 - Geospatial Analysis & Mapping – Understanding Airbnb distribution across Prague
 
 To visualize our data effectively, we used Tableau Public, offering dynamic mapping and intuitive graphical representations. Using Tableau enhances data storytelling, ensuring clear, engaging insights that static charts may not fully capture.
-<br>Tabluea visualization helped us with displaying Airbnb listings geographically, showing concentration in various districts, analyzing district-wise rental patterns, identifying high-demand zones, and mapping Airbnb vs. real estate prices, revealing investment opportunities.
+
+Tabluea visualization helped us with displaying Airbnb listings geographically, showing concentration in various districts, analyzing district-wise rental patterns, identifying high-demand zones, and mapping Airbnb vs. real estate prices, revealing investment opportunities.
