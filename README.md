@@ -31,6 +31,6 @@ Despite some limitations, such as missing guest capacity and occupancy irregular
 - Data Visualization – Crafting insightful plots to uncover market dynamics
 - Geospatial Analysis & Mapping – Understanding Airbnb distribution across Prague
 
-To visualize our data effectively, we used Tableau Public, offering dynamic mapping and intuitive graphical representations. Using Tableau enhances data storytelling, ensuring clear, engaging insights that static charts may not fully capture.
+To visualize our data effectively, we used Tableau Public, offering dynamic mapping and intuitive graphical representations. Visualization is available on my [Tableau Public profle](https://public.tableau.com/app/profile/m.kra/vizzes).
 
 Tableau visualization helped us with displaying Airbnb listings geographically, showing concentration in various districts, analyzing district-wise rental patterns, identifying high-demand zones, and mapping Airbnb vs. real estate prices, revealing investment opportunities.
