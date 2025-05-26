@@ -34,3 +34,12 @@ Despite some limitations, such as missing guest capacity and occupancy irregular
 To visualize our data effectively, we used Tableau Public, offering dynamic mapping and intuitive graphical representations. Visualization is available on my [Tableau Public profle](https://public.tableau.com/app/profile/m.kra/vizzes).
 
 Tableau visualization helped us with displaying Airbnb listings geographically, showing concentration in various districts, analyzing district-wise rental patterns, identifying high-demand zones, and mapping Airbnb vs. real estate prices, revealing investment opportunities.
+
+### Analysis Results
+Here are the key findings from the Airbnb analysis in Prague:
+- Increase in Listings: As of March 2025, the number of active Airbnb listings rose to 8,763, showing an upward trend in availability.
+- Popular Districts: The highest concentration of Airbnb rentals is in Prague 1, followed by Prague 2, 3, and 5.
+- Profitability of Renting: The most profitable districts for rental investments are Prague 1, Prague 7, and Prague 5, where Airbnb revenues exceed long-term rental profits.
+- Nightly Rates: The average nightly price for Airbnb listings in Prague 1 is 2,626 Kč, making it the most expensive district for short-term stays.
+- Real Estate Prices: Prague 1 has the highest apartment prices, reaching nearly 200,000 Kč per square meter, making it the most expensive district for property purchases.
+- Return on Investment: Prague 9 has the shortest return rate of 14.6 years, followed by Prague 8 (15 years) and Prague 7 (16.4 years).
