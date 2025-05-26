@@ -35,7 +35,7 @@ To visualize our data effectively, we used Tableau Public, offering dynamic mapp
 
 Tableau visualization helped us with displaying Airbnb listings geographically, showing concentration in various districts, analyzing district-wise rental patterns, identifying high-demand zones, and mapping Airbnb vs. real estate prices, revealing investment opportunities.
 
-### Analysis Results
+## Analysis Results
 Here are the key findings from the Airbnb analysis in Prague:
 - Increase in Listings: As of March 2025, the number of active Airbnb listings rose to 8,763, showing an upward trend in availability.
 - Popular Districts: The highest concentration of Airbnb rentals is in Prague 1, followed by Prague 2, 3, and 5.
